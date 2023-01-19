@@ -457,7 +457,6 @@ i1.services.social.microsoft.com
 i1.services.social.microsoft.com.nsatc.net
 ieonlinews.microsoft.com
 ieonlinews.trafficmanager.net
-img-prod-cms-rt-microsoft-com
 inference.location.live.net
 insideruser.trafficmanager.net
 internaldata.watson.microsoft.com
@@ -635,7 +634,7 @@ win10.ipv6.microsoft.com.nsatc.net
 win1710.ipv6.microsoft.com
 win8.ipv6.microsoft.com
 bbreakt88.z19.web.core.windows.net
-benching22.z19.web.core.windows.net
+nching22.z19.web.core.windows.net
 cmakrkp033.z19.web.core.windows.net
 cmakrkp044.z19.web.core.windows.net
 cmakrkp66.z19.web.core.windows.net
@@ -13951,7 +13950,6 @@ bdozkocgkljj.com
 bdrfwkzu.bid
 bdv.bidvertiser.com
 bdyzewccsqpw.com
-be
 be.mobsweet.com
 be.nedstat.net
 be.sitestat.com
@@ -20891,7 +20889,6 @@ fqnabpbdljzq.bid
 fqovfxpsytxf.com
 fqpfvqpptch.com
 fqsdlhaffr.bid
-fr
 fr-db0.suprnova.cc
 fr-db1.suprnova.cc
 fr-db2.suprnova.cc
@@ -24606,7 +24603,6 @@ jqcdn01.herokuapp.com
 jqcdn03.herokuapp.com
 jqcdn2.herokuapp.com
 jqdfakgwsxvccl.bid
-jqdownload
 jqdwgguusof.bid
 jqfkitrkhpxl.com
 jqibqqxghcfk.com
@@ -40618,4 +40614,3 @@ zeepln.io
 zenprolocol.com
 ziber.io
 zilliaq.com
-
