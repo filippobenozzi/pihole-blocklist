@@ -651,6 +651,8 @@ wustat.windows.com
 ztd.dds.microsoft.com
 
 # Xiaomi
+log.eu.xiaoyi.com
+xiaoyi.com
 10-awsind.bigdata.pub.neo.xiaomi.com
 11-c3.bigdata.ctc.neo.xiaomi.com
 3rd.mishop.pandora.xiaomi.com
